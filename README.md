@@ -31,4 +31,8 @@
 
 #### Donations -
 
+* Libera Pay -
 [![Libera](https://img.shields.io/liberapay/patrons/binarymako.svg?logo=liberapay)](https://liberapay.com/binarymako/donate)
+
+* GitHub -
+[![Sponsor Binary Kore](https://img.shields.io/github/sponsors/binarykore?label=Sponsor%20Binary%20Kore&logo=github&style=for-the-badge)](https://github.com/sponsors/binarykore?frequency=patreon)
