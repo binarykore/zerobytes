@@ -28,3 +28,7 @@
 * https://hub.docker.com/r/snowkelus/zerobytes
 * https://hub.docker.com/r/mysteriumnetwork/myst
 * https://hub.docker.com/r/adguard/adguardhome
+
+#### Donations -
+
+[![Libera](https://img.shields.io/liberapay/patrons/binarymako.svg?logo=liberapay)](https://liberapay.com/binarymako/donate)
