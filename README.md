@@ -5,7 +5,7 @@
 * Mikrotik RouterOS (Portainer) 
 * PHP Server (Hotspot) - Host Name
 * DNS Spoof / DNS Redirection
-* S2 Klinternet Services Voucher
+* S2 Klinternet Services - Voucher (License)
 
 #### OTA / ACS:
 * Short I/O
