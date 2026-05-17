@@ -3,7 +3,9 @@
 
 #### Whats Available:
 * Mikrotik RouterOS (Portainer) 
-* PHP Server (Hotspot) 
+* PHP Server (Hotspot) - Host Name
+* DNS Spoof / DNS Redirection
+* S2 Klinternet Services Voucher
 
 #### OTA / ACS:
 * Short I/O
