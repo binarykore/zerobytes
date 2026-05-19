@@ -28,6 +28,8 @@
 * https://hub.docker.com/r/snowkelus/zerobytes
 * https://hub.docker.com/r/mysteriumnetwork/myst
 * https://hub.docker.com/r/adguard/adguardhome
+* https://hub.docker.com/r/containrrr/watchtower
+* (Soon, Duino Coin and XMRig) + Mysterium - Myst Node (Shift OS).. 
 
 #### Donations -
 
