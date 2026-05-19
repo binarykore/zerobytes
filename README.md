@@ -31,6 +31,15 @@
 * https://hub.docker.com/r/containrrr/watchtower
 * (Soon, Duino Coin and XMRig) + Mysterium - Myst Node (Shift OS).. 
 
+#### Requirements -
+* Docker
+* Zero Tier
+* OpenWRT
+* BjornVPN - HTTP Captive Portal
+* Mikrotik RouterOS (Portainer) 
+* mDNS and PHP Server
+* HTTP Authentication
+
 #### Donations -
 
 * Libera Pay -
